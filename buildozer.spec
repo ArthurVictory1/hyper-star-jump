@@ -22,7 +22,7 @@ source.main = main.py
 version = 1.0
 
 # Необходимые библиотеки (обязательно python3 и pygame)
-requirements = python3,pygame
+requirements = python3,pygame-ce
 android.archs = arm64-v8a
 
 # Поддерживаемая ориентация экрана (только портретная для аркады)
